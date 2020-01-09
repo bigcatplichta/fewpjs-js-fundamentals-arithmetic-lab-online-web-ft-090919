@@ -1,10 +1,10 @@
 let num1 = 31
 let num2 = 2
 
-const multiply = num1 * num2;
+let multiply = num1 * num2;
 
 // return number between 0 and 100
-const random = Math.round(Math.random() * 100);
+let random = Math.round(Math.random() * 100);
 
 // apparently the tests don't want functions?
 // function multiply(num1, num2) {
