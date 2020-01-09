@@ -1,4 +1,6 @@
-function multiply() {
-  31 * 2
+
+
+// apparently the tests don't want functions?
+function multiply(num1, num2) {
+  num1 * num2
 }
-// Write your code here
