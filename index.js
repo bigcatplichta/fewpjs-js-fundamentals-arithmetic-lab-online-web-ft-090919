@@ -1,4 +1,4 @@
 function multiply() {
-  26 * 2
+  31 * 2
 }
 // Write your code here
